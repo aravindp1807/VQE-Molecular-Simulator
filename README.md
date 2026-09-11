@@ -9,7 +9,7 @@ A 100% self-contained Google Colab solution for simulating molecular energy curv
 1. **Simulate Molecular Energy Curves using VQE (Variational Quantum Eigensolver)**
    - Computes Exact Ground State Energies (FCI / NumPyMinimumEigensolver) vs. VQE Energies across bond distances ($0.4\text{ Å}$ to $2.2\text{ Å}$).
    - Integrates with Qiskit Nature, PySCF, and ParityMapper.
-   - Pre-configured with IBM Quantum API Key: `7hk4AmU8jgQqqDjkkY4fpYD-3h6VtCjSPJqfSU0xmf9f` for optional cloud execution.
+   - Pre-configured with IBM Quantum API Key for optional cloud execution.
 
 2. **Predict Molecular Behavior using Machine Learning**
    - Trained `RandomForestClassifier` predicting whether a molecule requires Quantum (VQE) algorithms or if Classical solvers suffice.
