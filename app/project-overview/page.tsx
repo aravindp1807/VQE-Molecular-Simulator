@@ -266,7 +266,7 @@ export default function ProjectOverview() {
         <div className="rounded-lg p-6 mb-8 transition-all duration-300 bg-background hover:bg-gradient-to-br hover:from-orange-500/5 hover:to-red-500/10 text-foreground border border-orange-500/30 shadow-sm">
           <h2 className="text-2xl font-semibold mb-4">The Big Idea</h2>
           <p className="text-foreground/70 mb-4">
-            We've created a platform that helps college students discover valuable resources and opportunities
+            We&apos;ve created a platform that helps college students discover valuable resources and opportunities
             that are often hidden or scattered. Our solution brings together academic and extracurricular options
             in one centralized place, making exploration beyond the standard curriculum simple and engaging.
           </p>

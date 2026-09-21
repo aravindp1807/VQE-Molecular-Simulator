@@ -10,6 +10,14 @@
 !.yarn/releases
 !.yarn/versions
 
+# Python
+venv/
+venv_win/
+backend/venv/
+backend/venv_win/
+__pycache__/
+*.pyc
+
 # testing
 /coverage
 
@@ -30,7 +38,7 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
+# env files
 .env*
 
 # vercel
